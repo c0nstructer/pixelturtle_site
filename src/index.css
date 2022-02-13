@@ -1,0 +1,45 @@
+.remaining {
+	font-size: 19px; /*! background-color: black; */
+	background-width: -4px; /*! width: 40px; */ /*! background-repeat: no-repeat; */ /*! background-size: 10px; */
+}
+
+.remaining span {
+	background: black;
+	background-size: 100px;
+	box-shadow: inset 0 0 2000px rgba(0, 0, 0, 0.74);
+}
+.section-wrap {
+	background: url(./assets/dogwall.jpeg);
+}
+.section-wrap {
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position-x: center;
+}
+.img-team1 {
+	background: url(./assets/team1.jpeg);
+}
+.img-team2 {
+	background: url(./assets/team2.jpeg);
+}
+.img-team3 {
+	background: url(./assets/team3.jpeg);
+}
+.img-team4 {
+	background: url(./assets/team4.png);
+}
+.img-team5 {
+	background: url(./assets/team5.jpeg);
+}
+.img-team6 {
+	background: url(./assets/team6.jpeg);
+}
+.img-team7 {
+	background: url(./assets/team7.png);
+}
+.img-team8 {
+	background: url(./assets/team8.jpeg);
+}
+.img-team9 {
+	background: url(./assets/team9.png);
+}

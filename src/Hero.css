@@ -1,0 +1,28 @@
+.nav-link {
+  font-size: 1.1rem;
+  font-weight: 400;
+  margin-left: 20px;
+  color: #fff !important;
+}
+.btn-tomato:hover {
+  box-shadow: 2px 2px 20px 0px rgba(131, 100, 226, 0.5);
+}
+.btn-tomato {
+  background-color: #fff;
+  font-size: 1rem;
+  color: #000 !important;
+}
+
+.logofix {
+  height: 100px;
+}
+
+@media (max-width: 768px) {
+  .logofix {
+    width: 80%;
+    height: auto;
+  }
+  .navbar-brand {
+    width: 60%;
+  }
+}
